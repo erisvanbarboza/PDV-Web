@@ -3,6 +3,8 @@ package com.produtos.produtos.Model;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
+// comentário teste
+
 @Document("produtos")
 public class Produtos {
     @Id
