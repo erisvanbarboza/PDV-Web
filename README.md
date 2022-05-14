@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Sistema de  PDV desenvolvido com o intuito de tirar nota máxima na prova final.
+Sistema de  PDV desenvolvido com o intuito de tirar nota máxima na prova final do curso Tech4Me.
 
 ## Motivação
 
